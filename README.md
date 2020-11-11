@@ -41,11 +41,12 @@ Sudoku Solver AR is an augmented reality Sudoku solver. It captures video using 
 ## Features
 
 -  Automatically Detects Sudoku Block
+
 -  Fast Prediction
 
 ## To-DO
 
-- Detect Sudoku Block in live video stream and solve
 - Detect multiple sudoku board in a frame
+
 - Add rotation robustness
 

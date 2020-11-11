@@ -12,7 +12,7 @@ Sudoku Solver AR is an augmented reality Sudoku solver. It captures video using 
 
 ## Workflow
 
-![workflow diagram](media/work-flow.png)
+![workflow diagram](media/1.png)
 
 # STEPS 
  1. Input the Sudoku image.

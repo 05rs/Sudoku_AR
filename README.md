@@ -12,8 +12,7 @@ Sudoku Solver AR is an augmented reality Sudoku solver. It captures video using 
 
 ## Workflow
 
-![workflow diagram](https://www.pyimagesearch.com/wp-content/uploads/2020/08/opencv_sudoku_puzzle_steps.png)
-
+![workflow diagram](media/work-flow.png)
 
 # STEPS 
  1. Input the Sudoku image.

@@ -31,7 +31,7 @@ Sudoku Solver AR is an augmented reality Sudoku solver. It captures video using 
  
 ![digit_image](media/5.png)
  
- 5. Predict the number on cell using Neural Network, trained on CIFAR dataset, generate sudoku board and solve with py-sudoku library.
+ 5. Predict the number on cell using Neural Network, trained on MNIST and Chars74k dataset, generate sudoku board and solve with py-sudoku library.
 
 
 ## Usage
